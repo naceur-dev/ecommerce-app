@@ -6,7 +6,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "eslint-config-airbnb": "^17.1.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "formik": "^1.5.8",
     "gh-pages": "^2.0.1",
     "global": "^4.4.0",
